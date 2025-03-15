@@ -13,7 +13,6 @@ The **Dictionary App** is an Android application that allows users to browse and
 ## Technologies Used
 - **Kotlin** for Android development.
 - **SQLite** for storing word pairs.
-- **RecyclerView** for displaying the word list.
 - **Android Studio** for development and debugging.
 
 ## How It Works
